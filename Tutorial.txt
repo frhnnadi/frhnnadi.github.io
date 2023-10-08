@@ -1,0 +1,25 @@
+Team : 	Muhammad Farhan	(1906021)
+	Mochamad Kahfi		(1906022)
+
+===============================
+KERJA PRAKTIK
+SISTEM INFORMASI DINAS PARIWISATA DAN KEBUDAYAAN KAB GARUT
+===============================
+
+Perangkat Yang dibutuhkan apabila ingin membuka project ini:
+1. Xampp
+2. Google Chrome
+
+Langkah-Langkah:
+1. Unduh file RAR "disparbud".
+2. Jika sudah, Extract RAR "disparbud.rar" dan letakan folder "disparbud" ke dalam 
+	LocalDisk(C) > xampp > htdocs
+
+3. Buka http://localhost/phpmyadmin/index.php pada browser internet.
+4. Buat database baru dengan nama "dbdisparbud"
+5. Import database "dbdisparbud" yang ada dalam folder "disparbud" yang bernama "dbdisparbud.sql"
+
+6. Jalankan Sistem Informasi Dinas Pariwisata dan Kebudayaan dengan running
+	http://localhost/disparbud/front/index.php
+7. Masuk dengan username "disparbud@gmail.co.id" dan password "admin"
+8. Berhasil
